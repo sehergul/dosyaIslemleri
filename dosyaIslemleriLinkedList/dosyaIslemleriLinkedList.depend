@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618321261 source:c:\users\q\desktop\dosyaislemlerilinkedlist\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
